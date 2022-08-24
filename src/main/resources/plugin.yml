@@ -1,0 +1,4 @@
+name: CropXPlugin
+version: '${project.version}'
+main: green.misc.crop_xp
+api-version: 1.19
